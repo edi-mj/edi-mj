@@ -1,6 +1,6 @@
 !["banner"](images/banner.svg)
 
-<p align="left">I am currently a computer science student at Trunojoyo University in Madura, with an interest in web development and artificial intelligence.</p>
+<p align="left">I am currently a computer science student at University of Trunojoyo Madura, with an interest in web development and artificial intelligence.</p>
 
 ###
 
