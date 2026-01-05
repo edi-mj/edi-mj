@@ -1,4 +1,8 @@
-!["banner"](images/banner.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="images/banner-darkmode.svg">
+  <source media="(prefers-color-scheme: light)" srcset="images/banner-lightmode.svg">
+  <img alt="Banner" src="images/banner-darkmode.svg">
+</picture>
 
 <p align="left">I am currently a computer science student at University of Trunojoyo Madura, with an interest in web development and artificial intelligence.</p>
 
